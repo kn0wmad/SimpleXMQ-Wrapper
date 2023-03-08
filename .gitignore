@@ -1,6 +1,4 @@
-hello-world.s9pk
-image.tar
+simplexmq.s9pk
 scripts/*.js
-.DS_Store
 .vscode/
 docker-images
